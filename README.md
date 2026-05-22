@@ -6,3 +6,6 @@ Personal justfile recipes based on Universal Blue
 3. You may need to `brew install just fzf`
 4. Make an alias in ~/.bashrc:   `alias mjust="just --justfile ~/.config/justfile"` and then run `source ~/.basrc`
 5. Running `mjust` will bring up a "chooser" by default, or you can use specific commands like `mjust update` 
+
+# Notes
+Not all these recipes may run as they were copied and modified from an Aurora base that also provides other config files.  The point is this is a good start for you to adjust and modify on your own.
